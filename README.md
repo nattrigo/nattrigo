@@ -1,5 +1,4 @@
 ### Hi there 👋 🙋🏼  
-
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
 I'm an economist and a Master's student.
@@ -20,6 +19,15 @@ I'm an economist and a Master's student.
 <code><img src="https://github.com/nattrigo/nattrigo/blob/main/python.png" width="55" height="55" ></code>
 <code><img src="https://github.com/nattrigo/nattrigo/blob/main/matlab.png" width="40" height="40" ></code>
 
+--  📫 How to reach me: ...
+
+ <a href="https://www.linkedin.com/in/nat%C3%A1lia-trigo/">
+<img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<a href="https://twitter.com/natalia_trigo">
+<img align="left" alt="Natália Trigo | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 
 <!-- 👋 🙋🏼
 **nattrigo/nattrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
