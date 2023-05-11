@@ -25,7 +25,7 @@ I'm an economist and a PhD student.
 
 - 🎯 I’m currently learning ...
 
-<code><img src="https://github.com/nattrigo/nattrigo/blob/main/svg/python-svg.svg" width="50" height="50" ></code>
+
 <code><img src="https://github.com/nattrigo/nattrigo/blob/main/svg/matlab-svg.svg" width="50" height="50" ></code>
 
 <!--
