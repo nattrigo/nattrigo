@@ -18,17 +18,14 @@ I'm a PhD student in Economics @FGV EPGE
 <code><img src="https://github.com/nattrigo/nattrigo/blob/main/R.png" width="40" height="40" ></code>
 <code><img src="https://github.com/nattrigo/nattrigo/blob/main/rmarkdown.png" width="50" height="50" ></code>
 <code><img src="https://github.com/nattrigo/nattrigo/blob/main/stata.png" width="40" height="40" ></code>
-<code><img src="https://github.com/nattrigo/nattrigo/blob/main/jupyter.png" width="40" height="40" ></code>
+<code><img src="https://github.com/nattrigo/nattrigo/blob/main/svg/matlab-svg.svg" width="50" height="50" ></code>
 <code><img src="https://github.com/nattrigo/nattrigo/blob/main/eviews.png" width="40" height="40" ></code>
 <code><img src="https://github.com/nattrigo/nattrigo/blob/main/latex.png" width="60" height="40" ></code>
 -->
 
-- 🎯 I’m currently learning ...
-
-
-<code><img src="https://github.com/nattrigo/nattrigo/blob/main/svg/matlab-svg.svg" width="50" height="50" ></code>
-
 <!--
+ - 🎯 I’m currently learning ...
+
 <code><img src="https://github.com/nattrigo/nattrigo/blob/main/python.png" width="55" height="55" ></code>
 <code><img src="https://github.com/nattrigo/nattrigo/blob/main/matlab.png" width="40" height="40" ></code>
 -->
