@@ -5,7 +5,7 @@ I'm a PhD student in Economics @FGV EPGE
 
 📍 Rio de Janeiro, Brazil
 
---⚡ Languages and tools 
+⚡ Languages and tools 
 
 <code><img src="https://github.com/nattrigo/nattrigo/blob/main/svg/R-svg.svg" width="50" height="50" ></code>
 <code><img src="https://github.com/nattrigo/nattrigo/blob/main/svg/rmarkdown.svg" width="50" height="50" ></code>
@@ -25,7 +25,7 @@ I'm a PhD student in Economics @FGV EPGE
 <code><img src="https://github.com/nattrigo/nattrigo/blob/main/matlab.png" width="40" height="40" ></code>
 -->
 
---  📫 How to reach me: ...
+📫 How to reach me: ...
 
  <a href="https://www.linkedin.com/in/nat%C3%A1lia-trigo/">
 <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
