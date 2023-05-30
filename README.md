@@ -8,7 +8,7 @@ I'm a PhD student in Economics @FGV EPGE
 - ⚡ Languages and tools 
 
 <code><img src="https://github.com/nattrigo/nattrigo/blob/main/svg/R-svg.svg" width="50" height="50" ></code>
-<code><img width="22px" src="https://github.com/nattrigo/nattrigo/blob/main/svg/rmarkdown.svg" width="50" height="50" ></code>
+<code><img src="https://github.com/nattrigo/nattrigo/blob/main/svg/rmarkdown.svg" width="50" height="50" ></code>
 <code><img src="https://github.com/nattrigo/nattrigo/blob/main/svg/stata-svg.svg" width="50" height="50" ></code>
 <code><img src="https://github.com/nattrigo/nattrigo/blob/main/svg/latex-svg.svg" width="50" height="60" ></code>
 
