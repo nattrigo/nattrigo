@@ -5,7 +5,7 @@ I'm a PhD student in Economics @FGV EPGE
 
 📍 Rio de Janeiro, Brazil
 
-- ⚡ Languages and tools 
+--⚡ Languages and tools 
 
 <code><img src="https://github.com/nattrigo/nattrigo/blob/main/svg/R-svg.svg" width="50" height="50" ></code>
 <code><img src="https://github.com/nattrigo/nattrigo/blob/main/svg/rmarkdown.svg" width="50" height="50" ></code>
