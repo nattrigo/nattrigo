@@ -26,6 +26,7 @@ I'm a PhD student in Economics [@FGV EPGE](https://epge.fgv.br/en)
 <code><img src="https://github.com/nattrigo/nattrigo/blob/main/matlab.png" width="40" height="40" ></code>
 -->
 
+<!--
 📫 How to reach me: 
 
  <a href="https://www.linkedin.com/in/nat%C3%A1lia-trigo/">
@@ -35,7 +36,7 @@ I'm a PhD student in Economics [@FGV EPGE](https://epge.fgv.br/en)
 <a href="https://twitter.com/natalia_trigo">
 <img align="left" alt="Natália Trigo | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-
+-->
 <!-- 👋 🙋🏼
 **nattrigo/nattrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
