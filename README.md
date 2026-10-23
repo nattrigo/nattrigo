@@ -1,9 +1,9 @@
 ### Hi there 👋  
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
-I'm a PhD Candidate in Economics [@FGV EPGE](https://epge.fgv.br/en)
+Economics Professor
 
-📍 Rio de Janeiro, Brazil
+📍 Originally from Rio de Janeiro, Brazil. Now, working at Londrina State University, Paraná, Brazil.
 
 ⚡ Languages and tools 
 
